@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>wellcome swetha!!</h1>
-    <p>Java, Git, Maven and Tomcat configured successfully!</p>
+    <p>Enjoy automation with Jenkins!</p>
 </body>
 </html>
